@@ -1,0 +1,13 @@
+D:\Coding\Rider\Exam Prep\bin\Debug\netcoreapp3.1\Exam Prep.exe
+D:\Coding\Rider\Exam Prep\bin\Debug\netcoreapp3.1\Exam Prep.deps.json
+D:\Coding\Rider\Exam Prep\bin\Debug\netcoreapp3.1\Exam Prep.runtimeconfig.json
+D:\Coding\Rider\Exam Prep\bin\Debug\netcoreapp3.1\Exam Prep.runtimeconfig.dev.json
+D:\Coding\Rider\Exam Prep\bin\Debug\netcoreapp3.1\Exam Prep.dll
+D:\Coding\Rider\Exam Prep\bin\Debug\netcoreapp3.1\Exam Prep.pdb
+D:\Coding\Rider\Exam Prep\obj\Debug\netcoreapp3.1\Exam Prep.csprojAssemblyReference.cache
+D:\Coding\Rider\Exam Prep\obj\Debug\netcoreapp3.1\Exam Prep.csproj.CoreCompileInputs.cache
+D:\Coding\Rider\Exam Prep\obj\Debug\netcoreapp3.1\Exam Prep.AssemblyInfoInputs.cache
+D:\Coding\Rider\Exam Prep\obj\Debug\netcoreapp3.1\Exam Prep.AssemblyInfo.cs
+D:\Coding\Rider\Exam Prep\obj\Debug\netcoreapp3.1\Exam Prep.dll
+D:\Coding\Rider\Exam Prep\obj\Debug\netcoreapp3.1\Exam Prep.pdb
+D:\Coding\Rider\Exam Prep\obj\Debug\netcoreapp3.1\Exam Prep.genruntimeconfig.cache
